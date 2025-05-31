@@ -144,7 +144,7 @@ minisql/
 
 ## 🗺️ Development Roadmap
 
-### Phase 1: Foundation & Core CRUD (Weeks 1-2)
+### Phase 1: Foundation & Core CRUD 
 **Goal**: Basic functionality with essential data structures
 - [ ] Implement core data structures (linked list, stack, queue)
 - [ ] Basic BST for primary storage
@@ -154,7 +154,7 @@ minisql/
 
 **DSA Focus**: Linked lists, stacks, basic BST operations
 
-### Phase 2: Balanced Trees & Indexing (Weeks 3-4)
+### Phase 2: Balanced Trees & Indexing 
 **Goal**: Efficient data access and storage
 - [ ] AVL tree implementation for primary key indexing
 - [ ] Self-balancing operations (rotations, rebalancing)
@@ -164,7 +164,7 @@ minisql/
 
 **DSA Focus**: AVL trees, tree rotations, balance factors
 
-### Phase 3: Transactions & Undo Mechanism (Weeks 5-6)
+### Phase 3: Transactions & Undo Mechanism 
 **Goal**: ACID properties and rollback functionality
 - [ ] Transaction state management using stacks
 - [ ] BEGIN, COMMIT, ROLLBACK commands
@@ -174,7 +174,7 @@ minisql/
 
 **DSA Focus**: Stacks for undo operations, state management
 
-### Phase 4: Advanced Querying & UPDATE (Weeks 7-8)
+### Phase 4: Advanced Querying & UPDATE 
 **Goal**: Complex query processing
 - [ ] WHERE clause parsing and evaluation
 - [ ] UPDATE operations with indexing
@@ -184,7 +184,7 @@ minisql/
 
 **DSA Focus**: Tree traversals, search optimization
 
-### Phase 5: Splay Trees & Caching (Weeks 9-10)
+### Phase 5: Splay Trees & Caching 
 **Goal**: Performance optimization for frequently accessed data
 - [ ] Splay tree implementation
 - [ ] Cache replacement policies
@@ -194,7 +194,7 @@ minisql/
 
 **DSA Focus**: Splay trees, self-adjusting structures
 
-### Phase 6: Advanced Features (Weeks 11-12)
+### Phase 6: Advanced Features 
 **Goal**: Production-ready features
 - [ ] Persistence layer (save/load to disk)
 - [ ] JOIN operations using hash tables
